@@ -1,11 +1,7 @@
 # 💳 Credit Card Exploratory Data Analysis (EDA) Project
 
 ## 📝 Project Overview
-This project undertakes a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, focusing on both customer demographics and transaction behavior.  
-The **core objective** is to reveal crucial **patterns, relationships, and trends** in card usage and financial metrics — ultimately delivering actionable insights for:
-- Strategic product development  
-- Targeted marketing campaigns  
-- Enhanced customer retention  
+This project undertakes a comprehensive Exploratory Data Analysis (EDA) of a credit card dataset, focusing on both customer demographics and transaction behavior. The **core objective** is to reveal crucial **patterns, relationships, and trends** in card usage and financial metrics — ultimately delivering actionable insights.
 
 ### 📁 Notebook Structure
 - `Credit_CardEDA.ipynb`: Transaction-level data including usage patterns, expense types, credit limits, annual fees, and monthly trends.
